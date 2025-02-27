@@ -2,7 +2,11 @@
 
 ## Python 随机对照试验的实证研究
 
-该项目旨在通过严格的实验设计，评估自适应学习技术与传统静态学习方法对学生成绩和参与度的影响。研究采用了多种随机对照试验（RCT）设计，包括平行 RCT、配对 RCT、交叉 RCT、撤消 RCT 和因子 RCT，以确保结果的稳健性。参与者根据基线特征（如平均学分绩点、以往表现）进行分层和配对，分为治疗组（自适应学习）和对照组（静态学习）。研究收集了多项关键绩效指标，包括测试后的测验分数、进步分数、学习时间、保留率和辍学率。数据分析部分，通过 Shapiro-Wilk 和 Levene 检验验证了数据的正态性和方差齐性，并使用单向方差分析和卡方检验对结果进行了评估。研究结果表明，自适应学习组在测验分数、学习时间和保留率方面显著优于静态学习组，且辍学率更低。这些发现为教育策略的优化提供了数据驱动的见解。
+该项目评估了自适应学习技术与传统静态学习方法对学生成绩和参与度的影响，并采用严格的实验设计进行研究。为了确保结果的稳健性，研究采用了多种随机对照试验（RCT）设计，包括平行RCT、配对RCT、交叉RCT、撤回RCT和因子RCT。
+
+参与者根据基线特征（如GPA、过往表现）进行分层，并分配到自适应学习（实验组）或静态学习（对照组）。主要绩效指标包括测试后测验分数、学习进度、学习时间、知识保留率和辍学率。
+
+数据分析采用Shapiro-Wilk和Levene检验来验证正态性和方差齐性，并使用单因素方差分析（ANOVA）和卡方检验进行评估。研究结果表明，自适应学习组在测试成绩、学习时间和知识保留率方面显著优于静态学习组，同时辍学率更低。这些发现为优化教育策略提供了数据驱动的见解。
 
 ### 主要贡献总结
 ####  1.	研究设计与数据收集：
@@ -28,7 +32,12 @@
 
 ### Project Title: Evaluating the Effectiveness of Adaptive Learning vs. Static Learning
 
-The purpose of this project was to assess the impact of adaptive learning techniques versus traditional static learning methods on student achievement and engagement through a rigorous experimental design. The study employed a variety of randomized controlled trial (RCT) designs, including a parallel RCT, a paired RCT, a crossover RCT, a withdrawal RCT, and a factorial RCT to ensure robustness of results. Participants were stratified and paired based on baseline characteristics (e.g., GPA, past performance) into treatment (adaptive learning) and control (static learning) groups. Several key performance indicators were collected for the study, including post-test quiz scores, progress scores, learning time, retention rates, and dropout rates. For the data analysis section, normality and chi-square of the data were verified by Shapiro-Wilk and Levene tests, and the results were assessed using one-way ANOVA and chi-square tests. Findings indicated that the adaptive learning group significantly outperformed the static learning group in terms of test scores, learning time, and retention, and had a lower dropout rate. These findings provide data-driven insights for the optimization of educational strategies.
+This project assessed the impact of adaptive learning techniques versus traditional static learning methods on student achievement and engagement through a rigorous experimental design. A variety of randomized controlled trial (RCT) designs were employed, including parallel, paired, crossover, withdrawal, and factorial RCTs, to ensure robust results.
+
+Participants were stratified based on baseline characteristics (e.g., GPA, past performance) and assigned to either the adaptive learning (treatment) or static learning (control) group. Key performance indicators included post-test quiz scores, progress scores, learning time, retention rates, and dropout rates.
+
+Data analysis involved verifying normality and homogeneity using Shapiro-Wilk and Levene tests, followed by one-way ANOVA and chi-square tests. Results showed that students in the adaptive learning group significantly outperformed those in the static learning group in terms of test scores, learning time, and retention, while also exhibiting lower dropout rates. These findings provide data-driven insights for optimizing educational strategies.
+
 
 ### Objective:
 * To assess the impact of adaptive learning technologies on student performance and engagement compared to traditional static learning methods.
