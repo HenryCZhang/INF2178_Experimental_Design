@@ -28,6 +28,8 @@
 
 ### Project Title: Evaluating the Effectiveness of Adaptive Learning vs. Static Learning
 
+The purpose of this project was to assess the impact of adaptive learning techniques versus traditional static learning methods on student achievement and engagement through a rigorous experimental design. The study employed a variety of randomized controlled trial (RCT) designs, including a parallel RCT, a paired RCT, a crossover RCT, a withdrawal RCT, and a factorial RCT to ensure robustness of results. Participants were stratified and paired based on baseline characteristics (e.g., GPA, past performance) into treatment (adaptive learning) and control (static learning) groups. Several key performance indicators were collected for the study, including post-test quiz scores, progress scores, learning time, retention rates, and dropout rates. For the data analysis section, normality and chi-square of the data were verified by Shapiro-Wilk and Levene tests, and the results were assessed using one-way ANOVA and chi-square tests. Findings indicated that the adaptive learning group significantly outperformed the static learning group in terms of test scores, learning time, and retention, and had a lower dropout rate. These findings provide data-driven insights for the optimization of educational strategies.
+
 ### Objective:
 * To assess the impact of adaptive learning technologies on student performance and engagement compared to traditional static learning methods.
 
